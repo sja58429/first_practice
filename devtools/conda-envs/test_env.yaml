@@ -5,6 +5,8 @@ channels:
 
   - defaults
 dependencies:
+  - numpy 
+  - matplotlib
     # Base depends
   - python
   - pip
